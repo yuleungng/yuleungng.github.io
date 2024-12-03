@@ -2,7 +2,7 @@
 layout: default
 title: "Research Agenda"
 ---
-
+<div style="margin-right: 30px;">
 <br /> 
   I research the psychology of media and technology. Since I outlined a research agenda for prosociality with and through interactive media (Ng, 2016), I have been especially interested in understanding human reciprocity and cooperation with/through interactive media technologies, including but not limited to artificial intelligence (AI) media and social media. <br /> 
 <br /> 
@@ -62,3 +62,4 @@ title: "Research Agenda"
 <br /> 
 + Ng, Y.-L., & Zhao, X. (2020). The human alarm system for sensational news, online news headlines, and associated generic digital footprints: A uses and gratifications approach. _Communication Research, 47_, 251–275. https://doi.org/10.1177/0093650218793739 <br /> 
 <br /> 
+</div>
