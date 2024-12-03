@@ -10,7 +10,7 @@ I research the psychology of media and technology. Since I outlined a research a
 Ng, Y.-L. (2016). More than social–cultural influences: A research agenda for evolutionary perspectives on prosocial media effects. _Review of General Psychology, 20_, 317–335. https://doi.org/10.1037/gpr0000084<br /> </div>
 <br />
 <div style="margin-left: 60px; margin-right: 60px;">
-Reciprocity and Cooperation with Interactive Media Technologies (AI Media) <br /> 
+<strong>Reciprocity and Cooperation with Interactive Media Technologies (AI Media) </strong><br /> 
 <br /> 
   I have investigated interactive media technologies that people can adopt social rules and expectations to communicate and interact with, i.e., communicative AI media. I conducted a prisoner’s dilemma experiment on human–communicative AI cooperation to examine the relevant social dilemma problems (Ng, 2023b). Furthermore, sophisticated social cues and cognitive heuristics elicited by AI could direct people to use social rules and expectations for not only initial interactions with AI, but also downstream interactions with people. Accordingly, I conducted a representative survey exploring the conversational AI use–social capital association (Ng, 2024a). <br /> </div>
 <br />
@@ -34,14 +34,14 @@ Lin, Z., & Ng, Y.-L. (In press). Unraveling gratifications, concerns, and accept
 <div style="margin-left: 60px; margin-right: 60px;">
   To conclude, the above studies could contribute to the moral machine/reciprocal AI literature at a broader level. <br /> 
 <br /> 
-Reciprocity and Cooperation through Interactive Media Technologies (Social Media) <br /> 
+<strong>Reciprocity and Cooperation through Interactive Media Technologies (Social Media)</strong> <br /> 
 <br /> 
   Apart from comprehending human–communicative AI cooperation, I have been studying human–human reciprocity and cooperation through social media. It has been argued that, compared with other species, humans are extremely ecologically successful because of their large ingroup cooperation. I reviewed some social media research and proposed that humans have evolved to cooperate with others, and they now utilize social media to execute ingroup cooperation, including getting and giving emotional support, sharing knowledge, and achieving common goals (Ng, 2020a). I empirically found that social media use, particularly active use, increased the perceived relatedness of people in need and decreased the influence of genetic relatedness in aiding (Ng, 2020b). <br /> </div>
 <br /> 
 <div style="margin-left: 80px; margin-right: 80px;">
 Ng, Y.-L. (2020a). Toward an evolutionary perspective on social media use for cooperation. _Evolutionary Behavioral Sciences, 14_, 132–146. https://doi.org/10.1037/ebs0000172 <br /> 
 <br /> 
-+ Ng, Y.-L. (2020b). Active and passive Facebook use and associated costly off-line helping behavior. _Psychological Reports, 123_, 2562–2581. https://doi.org/10.1177/0033294119860262 <br /> </div>
+Ng, Y.-L. (2020b). Active and passive Facebook use and associated costly off-line helping behavior. _Psychological Reports, 123_, 2562–2581. https://doi.org/10.1177/0033294119860262 <br /> </div>
 <br /> 
 <div style="margin-left: 60px; margin-right: 60px;">
   Besides ingroup reciprocity through social media, my colleagues and I studied reciprocity with outgroup people through social media. Specifically, we examined supportive expressions in discussions on outgroups by ingroup members (Ng et al., 2022). <br /> </div>
