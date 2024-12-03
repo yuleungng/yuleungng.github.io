@@ -13,10 +13,10 @@ I research the psychology of media and technology. Since I outlined a research a
 **Reciprocity and Cooperation with Interactive Media Technologies (AI Media)** <br /> 
 <br /> 
   I have investigated interactive media technologies that people can adopt social rules and expectations to communicate and interact with, i.e., communicative AI media. I conducted a prisoner’s dilemma experiment on human–communicative AI cooperation to examine the relevant social dilemma problems (Ng, 2023b). Furthermore, sophisticated social cues and cognitive heuristics elicited by AI could direct people to use social rules and expectations for not only initial interactions with AI, but also downstream interactions with people. Accordingly, I conducted a representative survey exploring the conversational AI use–social capital association (Ng, 2024a). <br /> 
+<br />
++ Ng, Y.-L. (2023b). When communicative AIs are cooperative actors: A prisoner’s dilemma experiment on human–communicative artificial intelligence cooperation. _Behaviour & Information Technology, 13_, 2141–2151. https://doi.org/10.1080/0144929X.2022.2111273 <br /> 
 <br /> 
-> + Ng, Y.-L. (2023b). When communicative AIs are cooperative actors: A prisoner’s dilemma experiment on human–communicative artificial intelligence cooperation. _Behaviour & Information Technology, 13_, 2141–2151. https://doi.org/10.1080/0144929X.2022.2111273 <br /> 
-<br /> 
-> + Ng, Y.-L. (2024a). Exploring the association between use of conversational artificial intelligence and social capital: Survey evidence from Hong Kong. _New Media & Society, 26_, 1429–1444. https://doi.org/10.1177/14614448221074047 <br /> 
++ Ng, Y.-L. (2024a). Exploring the association between use of conversational artificial intelligence and social capital: Survey evidence from Hong Kong. _New Media & Society, 26_, 1429–1444. https://doi.org/10.1177/14614448221074047 <br /> 
 <br /> 
   My student and I employed ecologically valid social media data to identify motivations and relevant topics regarding human–AI interaction in a natural setting. We examined user conversations on Reddit, a social mediated community of practice, to understand how users collaboratively discuss technical and societal issues and concerns (Lin & Ng, In press) and learn how to practice better (Ng & Lin, 2022). Extending these findings, I constructed an integrated longitudinal model to test functional and motivational factors impacting trust in and use of conversational AI (Ng, In press). Besides acceptance of conversational AI, I also investigated passenger acceptance of AI-enabled autonomous vehicles in the driverless dilemma, one of the real-life scenarios of social dilemmas (Ng, 2024b). <br /> 
 <br /> 
