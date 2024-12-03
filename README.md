@@ -3,7 +3,7 @@ layout: default
 title: "Selected Publications"
 ---
 <br/> 
-<p align="left">**Ng, Y.-L.** (In press). A longitudinal model of continued acceptance of conversational artificial intelligence. _Information Technology & People_. Advance online publication. https://doi.org/10.1108/ITP-06-2023-0577 </p><br /> 
+**Ng, Y.-L.** (In press). A longitudinal model of continued acceptance of conversational artificial intelligence. _Information Technology & People_. Advance online publication. https://doi.org/10.1108/ITP-06-2023-0577 <br /> 
 <br /> 
 **Ng, Y.-L.** (In press). Uses and gratifications of biophilic simulation games. _Games and Culture_. Advance online publication. https://doi.org/10.1177/15554120241249518 <br /> 
 <br /> 
