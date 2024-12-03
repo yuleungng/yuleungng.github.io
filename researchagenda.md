@@ -4,7 +4,7 @@ title: "Research Agenda"
 ---
 <br/>
 <br/>
-<div style="margin: 20px;">
+<div style="margin: 30px;">
 
 I research the psychology of media and technology. Since I outlined a research agenda for prosociality with and through interactive media (Ng, 2016), I have been especially interested in understanding human reciprocity and cooperation with/through interactive media technologies, including but not limited to artificial intelligence (AI) media and social media. <br/> 
 <br /> 
