@@ -34,7 +34,7 @@ Lin, Z., & Ng, Y.-L. (In press). Unraveling gratifications, concerns, and accept
 <div style="margin-left: 60px; margin-right: 60px;">
   To conclude, the above studies could contribute to the moral machine/reciprocal AI literature at a broader level. <br /> 
 <br /> 
-**Reciprocity and Cooperation through Interactive Media Technologies (Social Media)** <br /> 
+Reciprocity and Cooperation through Interactive Media Technologies (Social Media) <br /> 
 <br /> 
   Apart from comprehending human–communicative AI cooperation, I have been studying human–human reciprocity and cooperation through social media. It has been argued that, compared with other species, humans are extremely ecologically successful because of their large ingroup cooperation. I reviewed some social media research and proposed that humans have evolved to cooperate with others, and they now utilize social media to execute ingroup cooperation, including getting and giving emotional support, sharing knowledge, and achieving common goals (Ng, 2020a). I empirically found that social media use, particularly active use, increased the perceived relatedness of people in need and decreased the influence of genetic relatedness in aiding (Ng, 2020b). <br /> </div>
 <br /> 
