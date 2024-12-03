@@ -62,4 +62,3 @@ title: "Research Agenda"
 <br /> 
 + Ng, Y.-L., & Zhao, X. (2020). The human alarm system for sensational news, online news headlines, and associated generic digital footprints: A uses and gratifications approach. _Communication Research, 47_, 251–275. https://doi.org/10.1177/0093650218793739 <br /> 
 <br /> 
-</div>
