@@ -3,10 +3,10 @@ layout: default
 title: "Research Agenda"
 ---
 <br/>
-<div style="margin-top: 2px; margin-bottom: 2px; margin-left: 60px; margin-right: 60px;">
+<div style="margin-top: 0.1px; margin-bottom: 0.1px; margin-left: 60px; margin-right: 60px;">
 I research the psychology of media and technology. Since I outlined a research agenda for prosociality with and through interactive media (Ng, 2016), I have been especially interested in understanding human reciprocity and cooperation with/through interactive media technologies, including but not limited to artificial intelligence (AI) media and social media. <br/></div>
 <br/>
-<div style="margin-top: 2px; margin-bottom: 2px; margin-left: 80px; margin-right: 80px;">
+<div style="margin-top: 0.1px; margin-bottom: 0.1px; margin-left: 80px; margin-right: 80px;">
 Ng, Y.-L. (2016). More than social–cultural influences: A research agenda for evolutionary perspectives on prosocial media effects. _Review of General Psychology, 20_, 317–335. https://doi.org/10.1037/gpr0000084<br /> </div>
 <br />
 <div style="margin-top: 2px; margin-bottom: 2px; margin-left: 60px; margin-right: 60px;">
