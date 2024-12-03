@@ -10,8 +10,9 @@ I research the psychology of media and technology. Since I outlined a research a
 Ng, Y.-L. (2016). More than social–cultural influences: A research agenda for evolutionary perspectives on prosocial media effects. _Review of General Psychology, 20_, 317–335. https://doi.org/10.1037/gpr0000084<br /> </div>
 <br />
 <div style="margin-top: 2px; margin-bottom: 2px; margin-left: 60px; margin-right: 60px;">
-<strong>Reciprocity and Cooperation with Interactive Media Technologies (AI Media) </strong><br /> 
+<strong>Reciprocity and Cooperation with Interactive Media Technologies (AI Media) </strong><br /> </div>
 <br /> 
+<div style="margin-top: 2px; margin-bottom: 2px; margin-left: 60px; margin-right: 60px;">
   I have investigated interactive media technologies that people can adopt social rules and expectations to communicate and interact with, i.e., communicative AI media. I conducted a prisoner’s dilemma experiment on human–communicative AI cooperation to examine the relevant social dilemma problems (Ng, 2023b). Furthermore, sophisticated social cues and cognitive heuristics elicited by AI could direct people to use social rules and expectations for not only initial interactions with AI, but also downstream interactions with people. Accordingly, I conducted a representative survey exploring the conversational AI use–social capital association (Ng, 2024a). <br /> </div>
 <br />
 <div style="margin-top: 2px; margin-bottom: 2px; margin-left: 80px; margin-right: 80px;">
@@ -32,10 +33,12 @@ Ng, Y.-L., & Lin, Z. (2022). Exploring conversation topics in conversational art
 Lin, Z., & Ng, Y.-L. (In press). Unraveling gratifications, concerns, and acceptance of generative artificial intelligence. _International Journal of Human–Computer Interaction._ <br /> </div>
 <br /> 
 <div style="margin-top: 2px; margin-bottom: 2px; margin-left: 60px; margin-right: 60px;">
-  To conclude, the above studies could contribute to the moral machine/reciprocal AI literature at a broader level. <br /> 
+  To conclude, the above studies could contribute to the moral machine/reciprocal AI literature at a broader level. <br /> </div>
 <br /> 
-<strong>Reciprocity and Cooperation through Interactive Media Technologies (Social Media)</strong> <br /> 
+<div style="margin-top: 2px; margin-bottom: 2px; margin-left: 60px; margin-right: 60px;">
+  <strong>Reciprocity and Cooperation through Interactive Media Technologies (Social Media)</strong> <br /> </div>
 <br /> 
+<div style="margin-top: 2px; margin-bottom: 2px; margin-left: 60px; margin-right: 60px;">
   Apart from comprehending human–communicative AI cooperation, I have been studying human–human reciprocity and cooperation through social media. It has been argued that, compared with other species, humans are extremely ecologically successful because of their large ingroup cooperation. I reviewed some social media research and proposed that humans have evolved to cooperate with others, and they now utilize social media to execute ingroup cooperation, including getting and giving emotional support, sharing knowledge, and achieving common goals (Ng, 2020a). I empirically found that social media use, particularly active use, increased the perceived relatedness of people in need and decreased the influence of genetic relatedness in aiding (Ng, 2020b). <br /> </div>
 <br /> 
 <div style="margin-top: 2px; margin-bottom: 2px; margin-left: 80px; margin-right: 80px;">
