@@ -3,7 +3,7 @@ layout: default
 title: "Research Agenda"
 ---
 <br/>
-<font size="2">
+<font size="3">
 <div style="margin-top: 2px; margin-bottom: 2px; margin-left: 80px; margin-right: 80px;">
 I research the psychology of media and technology. Since I outlined a research agenda for prosociality with and through interactive media (Ng, 2016), I have been especially interested in understanding human reciprocity and cooperation with/through interactive media technologies, including but not limited to artificial intelligence (AI) media and social media. <br/></div>
 <br/>
