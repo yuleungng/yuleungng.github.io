@@ -9,7 +9,7 @@ title: "Selected Publications"
 <br /> 
 **Ng, Y.-L.**, & Lin, Z. (In press). Biophilia gratification: Evidence from nature-related posts and images on social media. _New Media and Society_. <br /> 
 <br /> 
-Lin, Z., &**Ng, Y.-L.**(In press). Unraveling gratifications, concerns, and acceptance of generative artificial intelligence. _International Journal of Human–Computer Interaction_. <br /> 
+Lin, Z., & **Ng, Y.-L.**(In press). Unraveling gratifications, concerns, and acceptance of generative artificial intelligence. _International Journal of Human–Computer Interaction_. <br /> 
 <br /> 
 **Ng, Y.-L.**(2024). Exploring the association between use of conversational artificial intelligence and social capital: Survey evidence from Hong Kong. _New Media & Society, 26_, 1429–1444. https://doi.org/10.1177/14614448221074047 <br /> 
 <br /> 
@@ -39,7 +39,7 @@ Lin, Z., &**Ng, Y.-L.**(In press). Unraveling gratifications, concerns, and acce
 <br /> 
 **Ng, Y.-L.**, Ma, F., Ho, F., Ip, P., & Fu, K.W. (2019). Effectiveness of virtual and augmented reality-enhanced exercise on physical activity, psychological outcomes, and physical performance: A systematic review and meta-analysis of randomized controlled trials. _Computers in Human Behavior, 99_, 278–291. https://doi.org/10.1016/j.chb.2019.05.026 <br /> 
 <br /> 
-Luqiu, L. R., Schmierbach, M., &**Ng, Y.-L.**(2019). Willingness to follow opinion leaders: A case study of Chinese Weibo. _Computers in Human Behavior, 101_, 42–50. https://doi.org/10.1016/j.chb.2019.07.005 <br /> 
+Luqiu, L. R., Schmierbach, M., & **Ng, Y.-L.**(2019). Willingness to follow opinion leaders: A case study of Chinese Weibo. _Computers in Human Behavior, 101_, 42–50. https://doi.org/10.1016/j.chb.2019.07.005 <br /> 
 <br /> 
-**Ng, Y.-L.**(2016). More than social-cultural influences: A research agenda for evolutionary perspectives on prosocial media effects. _Review of General Psychology, 20_, 317–335. https://doi.org/10.1037/gpr0000084 <br /> 
+**Ng, Y.-L.** (2016). More than social-cultural influences: A research agenda for evolutionary perspectives on prosocial media effects. _Review of General Psychology, 20_, 317–335. https://doi.org/10.1037/gpr0000084 <br /> 
 <br /> 
