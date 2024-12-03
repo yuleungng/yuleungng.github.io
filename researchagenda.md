@@ -79,4 +79,8 @@ Ng, Y.-L., Song, Y., Kwon, K. H., & Huang, Y. (2020). Toward an integrative mode
 <br /> 
 Ng, Y.-L., & Zhao, X. (2020). The human alarm system for sensational news, online news headlines, and associated generic digital footprints: A uses and gratifications approach. <em>Communication Research, 47</em>, 251–275. https://doi.org/10.1177/0093650218793739 <br /> </div>
 <br /> 
+<blockquote>
+  “Essentially, all models are wrong, but some are useful.”
+  <footer>— George E. P. Box</footer>
+<br /> 
 </font>
