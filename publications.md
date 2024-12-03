@@ -3,6 +3,7 @@ layout: default
 title: "Selected Publications"
 ---
 
+Selected Publications
 <br /> 
 + **Ng, Y.-L.** (In press). A longitudinal model of continued acceptance of conversational artificial intelligence. _Information Technology & People_. Advance online publication. <https://doi.org/10.1108/ITP-06-2023-0577><br /> 
 <br /> 
