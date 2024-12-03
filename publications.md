@@ -4,11 +4,11 @@ title: "Selected Publications"
 ---
 
 <br /> 
-+ **Ng, Y.-L.** (In press). A longitudinal model of continued acceptance of conversational artificial intelligence. _Information Technology & People_. Advance online publication. https://doi.org/10.1108/ITP-06-2023-0577<br /> 
++ **Ng, Y.-L.** (In press). A longitudinal model of continued acceptance of conversational artificial intelligence. _Information Technology & People_. Advance online publication. <https://doi.org/10.1108/ITP-06-2023-0577><br /> 
 <br /> 
 + **Ng, Y.-L.** (In press). Uses and gratifications of biophilic simulation games. _Games and Culture_. Advance online publication. https://doi.org/10.1177/15554120241249518 <br /> 
 <br /> 
-+ **Ng, Y.-L.**, & Lin, Z. (In press). Biophilia gratification: Evidence from nature-related posts and images on social media. _New Media and Society_. <br /> 
++ **Ng, Y.-L.**, & Lin, Z. (In press). Biophilia gratification: Evidence from nature-related posts and images on social media. _New Media & Society_. <br /> 
 <br /> 
 + Lin, Z., & **Ng, Y.-L.** (In press). Unraveling gratifications, concerns, and acceptance of generative artificial intelligence. _International Journal of Human–Computer Interaction_. <br /> 
 <br /> 
