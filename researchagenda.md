@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Research Agenda"
-indent: true
 ---
 
 <br /> 
