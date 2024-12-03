@@ -82,5 +82,6 @@ Ng, Y.-L., & Zhao, X. (2020). The human alarm system for sensational news, onlin
 <blockquote>
   “Essentially, all models are wrong, but some are useful.”
   <footer>— George E. P. Box</footer>
+</blockquote>
 <br /> 
 </font>
