@@ -18,9 +18,9 @@ title: "Selected Publications"
 <br /> 
 + **Ng, Y.-L.**& Lin, Z. (2024). Between technological utopia and dystopia: Online expression of compulsory use of surveillance technology. _Science and Engineering Ethics, 30_, 19. <https://doi.org/10.1007/s11948-024-00483-3> <br /> 
 <br /> 
-+ **Ng, Y.-L.** (2023). When communicative AIs are cooperative actors: A prisoner’s dilemma experiment on human–communicative artificial intelligence cooperation. _Behaviour & Information Technology, 13_, 2141–2151. <https://doi.org/10.1080/0144929X.2022.2111273> <br /> 
-<br /> 
 + **Ng, Y.-L.** (2023). An error management approach to perceived fakeness of deepfakes: The moderating role of perceived deepfake targeted politicians’ personality characteristics. _Current Psychology, 42_, 25658–25669. <https://doi.org/10.1007/s12144-022-03621-x> <br /> 
+<br /> 
++ **Ng, Y.-L.** (2023). When communicative AIs are cooperative actors: A prisoner’s dilemma experiment on human–communicative artificial intelligence cooperation. _Behaviour & Information Technology, 13_, 2141–2151. <https://doi.org/10.1080/0144929X.2022.2111273> <br /> 
 <br /> 
 + **Ng, Y.-L.** (2022). Uses and gratifications of and exposure to nature 2.0 and associated interdependence with nature and pro-environmental behavior. _Social Science Computer Review, 40_, 61–76. <https://doi.org/10.1177/0894439320901490> <br /> 
 <br /> 
