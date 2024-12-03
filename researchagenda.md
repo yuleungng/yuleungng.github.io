@@ -4,13 +4,13 @@ title: "Research Agenda"
 ---
 <br/>
 <div style="margin-left: 60px; margin-right: 60px;">
-I research the psychology of media and technology. Since I outlined a research agenda for prosociality with and through interactive media (Ng, 2016), I have been especially interested in understanding human reciprocity and cooperation with/through interactive media technologies, including but not limited to artificial intelligence (AI) media and social media. <br /></div>
+I research the psychology of media and technology. Since I outlined a research agenda for prosociality with and through interactive media (Ng, 2016), I have been especially interested in understanding human reciprocity and cooperation with/through interactive media technologies, including but not limited to artificial intelligence (AI) media and social media. <br /><div>
 <br />
 <div style="margin-left: 80px; margin-right: 80px;">
 Ng, Y.-L. (2016). More than social–cultural influences: A research agenda for evolutionary perspectives on prosocial media effects. _Review of General Psychology, 20_, 317–335. https://doi.org/10.1037/gpr0000084<br /> </div>
 <br />
 <div style="margin-left: 60px; margin-right: 60px;">
-**Reciprocity and Cooperation with Interactive Media Technologies (AI Media)** <br /> 
+Reciprocity and Cooperation with Interactive Media Technologies (AI Media) <br /> 
 <br /> 
   I have investigated interactive media technologies that people can adopt social rules and expectations to communicate and interact with, i.e., communicative AI media. I conducted a prisoner’s dilemma experiment on human–communicative AI cooperation to examine the relevant social dilemma problems (Ng, 2023b). Furthermore, sophisticated social cues and cognitive heuristics elicited by AI could direct people to use social rules and expectations for not only initial interactions with AI, but also downstream interactions with people. Accordingly, I conducted a representative survey exploring the conversational AI use–social capital association (Ng, 2024a). <br /> </div>
 <br />
