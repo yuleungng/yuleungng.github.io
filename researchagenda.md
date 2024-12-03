@@ -33,7 +33,7 @@ Ng, Y.-L., & Lin, Z. (2022). Exploring conversation topics in conversational art
 Lin, Z., & Ng, Y.-L. (In press). Unraveling gratifications, concerns, and acceptance of generative artificial intelligence. _International Journal of Human–Computer Interaction._ <br /> </div>
 <br /> 
 <div style="margin-left: 40px; margin-right: 40px;">
-  To conclude, the above studies could contribute to the moral machine/reciprocal AI literature at a broader level. <br /> </div>
+  To conclude, the above studies could contribute to the moral machine/reciprocal AI literature at a broader level. <br /> 
 <br /> 
 **Reciprocity and Cooperation through Interactive Media Technologies (Social Media)** <br /> 
 <br /> 
