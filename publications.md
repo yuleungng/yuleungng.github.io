@@ -10,7 +10,7 @@ title: "Selected Publications"
 <br /> 
 + **Ng, Y.-L.**, & Lin, Z. (In press). Biophilia gratification: Evidence from nature-related posts and images on social media. _New Media & Society_. <br /> 
 <br /> 
-+ Lin, Z., & **Ng, Y.-L.** (In press). Unraveling gratifications, concerns, and acceptance of generative artificial intelligence. _International Journal of Human–Computer Interaction_. <br /> 
++ Lin, Z., & **Ng, Y.-L.** (In press). Unraveling gratifications, concerns, and acceptance of generative artificial intelligence. _International Journal of Human–Computer Interaction_. Advance online publication. <https://doi.org/10.1080/10447318.2024.2436749><br /> 
 <br /> 
 + **Ng, Y.-L.** (2024). Exploring the association between use of conversational artificial intelligence and social capital: Survey evidence from Hong Kong. _New Media & Society, 26_, 1429–1444. <https://doi.org/10.1177/14614448221074047> <br /> 
 <br /> 
