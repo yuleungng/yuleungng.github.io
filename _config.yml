@@ -1,6 +1,6 @@
 title: "Yu-Leung Ng"
 author: "Yu-Leung Ng"
-description: "<Department of Interactive Media> (https://orcid.org/0000-0002-7140-1616), School of Communication, HKBU"
+description: "Department of Interactive Media, School of Communication, HKBU"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "researchagenda.md", title: "Research Agenda"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: IMD, icon: web, email: }
+  - {title: IMD, icon: house, email: }
  
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
