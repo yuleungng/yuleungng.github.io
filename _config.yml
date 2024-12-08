@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "researchagenda.md", title: "Research Agenda"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: IMD Webpage, icon:, email: }
+  - {title: IMD Webpage, icon: orcid, url: https://orcid.org/0000-0002-7140-1616}
  
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
