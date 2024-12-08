@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "researchagenda.md", title: "Research Agenda"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: IMD Webpage, icon: rss, email: }
+  - {title: IMD Webpage, icon:, email: }
  
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
