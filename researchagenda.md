@@ -61,7 +61,7 @@ Ng, Y.-L. (2022a). Uses and gratifications of and exposure to nature 2.0 and ass
 <br /> 
 Ng, Y.-L. (In press). Uses and gratifications of biophilic simulation games. <em>Games and Culture</em>. Advance online publication. https://doi.org/10.1177/15554120241249518 <br /> 
 <br /> 
-Ng, Y.-L., & Lin, Z. (In press). Biophilia gratification: Evidence from nature-related posts and images on social media. <em>New Media & Society</em>. <br /> </div>
+Ng, Y.-L., & Lin, Z. (In press). Biophilia gratification: Evidence from nature-related posts and images on social media. <em>New Media & Society</em>. Advance online publication.https://doi.org/10.1177/14614448241303776 <br /> </div>
 <br /> 
 <div style="margin-top: 2px; margin-bottom: 2px; margin-left: 80px; margin-right: 80px;">
   Apart from the above research topics, I have also studied psychological and social antecedents and consequences of interacting with and through various media technologies, including surveillance technology (Ng & Lin, 2024), deepfakes (Ng, 2023a), virtual and augmented reality (Ng, Ma, et al., 2019), sensational news (Ng & Zhao, 2020), online incivility (Ng et al., 2020), and digital divide (Ng, Chan, et al., 2019). <br /> </div>
