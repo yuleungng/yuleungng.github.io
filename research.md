@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Research Agenda"
+title: "Research"
 ---
 <br/>
 <font size="3">
