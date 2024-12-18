@@ -17,7 +17,7 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "publications.md", title: "Selected Publications"}
-  - {file: "researchagenda.md", title: "Research"}
+  - {file: "research.md", title: "Research"}
   
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: <ins>Faculty Webpage</ins>, url: https://imd.hkbu.edu.hk/faculty-member/Dr-NG-Yu-Leung.html}
