@@ -4,7 +4,7 @@ title: "Selected Publications"
 ---
 
 <br /> 
-+ **Ng, Y.-L.** (In press). An error management approach to the human alarm system for correct and incorrect news content involving direct life-threatening risks. _Journal of Risk Research_. Advance online publication. <https://doi.org/10.1177/15554120241249518> 
++ **Ng, Y.-L.** (In press). An error management approach to the human alarm system for correct and incorrect news content involving direct life-threatening risks. _Journal of Risk Research_. Advance online publication. <https://doi.org/10.1080/13669877.2025.2512079> 
 <br />
 <br /> 
 + **Ng, Y.-L.** (In press). Uses and gratifications of biophilic simulation games. _Games and Culture_. Advance online publication. <https://doi.org/10.1177/15554120241249518> 
