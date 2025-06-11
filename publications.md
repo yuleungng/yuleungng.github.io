@@ -4,14 +4,14 @@ title: "Selected Publications"
 ---
 
 <br /> 
-+ **Ng, Y.-L.** (In press). A longitudinal model of continued acceptance of conversational artificial intelligence. _Information Technology & People_. Advance online publication. <https://doi.org/10.1108/ITP-06-2023-0577><br /> 
-<br /> 
-+ **Ng, Y.-L.** (In press). Uses and gratifications of biophilic simulation games. _Games and Culture_. Advance online publication. <https://doi.org/10.1177/15554120241249518> <br /> 
++ **Ng, Y.-L.** (In press). Uses and gratifications of biophilic simulation games. _Games and Culture_. Advance online publication. <https://doi.org/10.1177/15554120241249518> 
 <br /> 
 + **Ng, Y.-L.**, & Lin, Z. (In press). Biophilia gratification: Evidence from nature-related posts and images on social media. _New Media & Society_. Advance online publication. <https://doi.org/10.1177/14614448241303776><br /> 
 <br /> 
 + Lin, Z., & **Ng, Y.-L.** (In press). Unraveling gratifications, concerns, and acceptance of generative artificial intelligence. _International Journal of Human–Computer Interaction_. Advance online publication. <https://doi.org/10.1080/10447318.2024.2436749><br /> 
 <br /> 
++ **Ng, Y.-L.** (2025). A longitudinal model of continued acceptance of conversational artificial intelligence. _Information Technology & People, 38_, 1871-1889. Advance online publication. <https://doi.org/10.1108/ITP-06-2023-0577><br />
+<br />
 + **Ng, Y.-L.** (2024). Exploring the association between use of conversational artificial intelligence and social capital: Survey evidence from Hong Kong. _New Media & Society, 26_, 1429–1444. <https://doi.org/10.1177/14614448221074047> <br /> 
 <br /> 
 + **Ng, Y.-L.** (2024). Understanding passenger acceptance of autonomous vehicles through the prism of the trolley dilemma. _International Journal of Human-Computer Interaction, 40_, 2185–2194. <https://doi.org/10.1080/10447318.2022.2163347> <br /> 
