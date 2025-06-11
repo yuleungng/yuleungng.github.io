@@ -5,6 +5,7 @@ title: "Selected Publications"
 
 <br /> 
 + **Ng, Y.-L.** (In press). Uses and gratifications of biophilic simulation games. _Games and Culture_. Advance online publication. <https://doi.org/10.1177/15554120241249518> 
+<br />
 <br /> 
 + **Ng, Y.-L.**, & Lin, Z. (In press). Biophilia gratification: Evidence from nature-related posts and images on social media. _New Media & Society_. Advance online publication. <https://doi.org/10.1177/14614448241303776><br /> 
 <br /> 
