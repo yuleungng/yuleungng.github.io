@@ -47,7 +47,7 @@ Ng, Y.-L. (2020a). Toward an evolutionary perspective on social media use for co
 <br /> 
 Ng, Y.-L. (2020b). Active and passive Facebook use and associated costly off-line helping behavior. <em>Psychological Reports, 123</em>, 2562–2581. https://doi.org/10.1177/0033294119860262 <br />
 <br /> 
-Luo, Y., & Ng, Y.-L. (2025). Exploring the mediating role of online social capital in the association between sharing memes using four humor styles and subjective well-being. <em>Social Media + Society, 11</em>, 1–14. https://doi.org/10.1177/20563051251348922 <br />
+Luo, Y., & Ng, Y.-L. (2025). Exploring the mediating role of online social capital in the association between sharing memes using four humor styles and subjective well-being. <em>Social Media + Society, 11</em>, 1–14. https://doi.org/10.1177/20563051251348922 <br /></div>
 <br /> 
 <div style="margin-top: 2px; margin-bottom: 2px; margin-left: 80px; margin-right: 80px;">
   Besides ingroup reciprocity through social media, my colleagues and I studied reciprocity with outgroup people through social media. Specifically, we examined supportive expressions in discussions on outgroups by ingroup members (Ng et al., 2022). <br /> </div>
