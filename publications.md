@@ -14,7 +14,7 @@ title: "Selected Publications"
 <br /> 
 + Lin, Z., & **Ng, Y.-L.** (In press). Unraveling gratifications, concerns, and acceptance of generative artificial intelligence. _International Journal of Human–Computer Interaction_. Advance online publication. <https://doi.org/10.1080/10447318.2024.2436749><br />
 <br /> 
-+ **Ng, Y.-L.** (2025). A longitudinal model of continued acceptance of conversational artificial intelligence. _Information Technology & People, 38_, 1871-1889. Advance online publication. <https://doi.org/10.1108/ITP-06-2023-0577><br />
++ **Ng, Y.-L.** (2025). A longitudinal model of continued acceptance of conversational artificial intelligence. _Information Technology & People, 38_, 1871-1889. <https://doi.org/10.1108/ITP-06-2023-0577><br />
 <br /> 
 + Luo.Y., & **Ng, Y.-L.** (2025). Exploring the mediating role of online social capital in the association between sharing memes using four humor styles and subjective well-being. _Social Media + Society, 11_, 1–14. <https://doi.org/10.1177/20563051251348922><br /> 
 <br />
