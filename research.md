@@ -29,9 +29,9 @@ Ng, Y.-L. (2025). A longitudinal model of continued acceptance of conversational
 <br /> 
 Ng, Y.-L. (2024b). Understanding passenger acceptance of autonomous vehicles through the prism of the trolley dilemma. <em>International Journal of Human–Computer Interaction, 40</em>, 2185–2194. https://doi.org/10.1080/10447318.2022.2163347 <br /> 
 <br /> 
-Ng, Y.-L., & Lin, Z. (2022). Exploring conversation topics in conversational artificial intelligence–based social mediated communities of practice. <em>Computers in Human Behavior</em>, 107326. https://doi.org/10.1016/j.chb.2022.107326 <br /> 
+Ng, Y.-L., & Lin, Z. (2022). Exploring conversation topics in conversational artificial intelligence–based social mediated communities of practice. <em>Computers in Human Behavior, 134</em>, 107326. https://doi.org/10.1016/j.chb.2022.107326 <br /> 
 <br /> 
-Lin, Z., & Ng, Y.-L. (In press). Unraveling gratifications, concerns, and acceptance of generative artificial intelligence. <em>International Journal of Human–Computer Interaction.</em> Advance online publication. https://doi.org/10.1080/10447318.2024.2436749 <br /> </div>
+Lin, Z., & Ng, Y.-L. (2025). Unraveling gratifications, concerns, and acceptance of generative artificial intelligence. <em>International Journal of Human–Computer Interaction, 41.</em>, 10725-10742. https://doi.org/10.1080/10447318.2024.2436749 <br /> </div>
 <br /> 
 <div style="margin-top: 2px; margin-bottom: 2px; margin-left: 80px; margin-right: 80px;">
   To conclude, the above studies could contribute to the moral machine/reciprocal AI literature at a broader level. <br /> </div>
@@ -69,7 +69,7 @@ Ng, Y.-L., & Lin, Z. (In press). Biophilia gratification: Evidence from nature-r
   Apart from the above research topics, I have also studied psychological and social antecedents and consequences of interacting with and through various media technologies, including surveillance technology (Ng & Lin, 2024), deepfakes (Ng, 2023a), virtual and augmented reality (Ng, Ma, et al., 2019), life-threatening news (Ng, In press; Ng & Zhao, 2020), online incivility (Ng et al., 2020), and digital divide (Ng, Chan, et al., 2019). <br /> </div>
 <br /> 
 <div style="margin-top: 2px; margin-bottom: 2px; margin-left: 120px; margin-right: 120px;">
-Ng, Y.-L. (In press). An error management approach to the human alarm system for correct and incorrect news content involving direct life-threatening risks. <em>Journal of Risk Research.</em> Advance online publication. https://doi.org/10.1080/13669877.2025.2512079 <br /> 
+Ng, Y.-L. (2025). An error management approach to the human alarm system for correct and incorrect news content involving direct life-threatening risks. <em>Journal of Risk Research, 28</em>, 486-502. https://doi.org/10.1080/13669877.2025.2512079 <br /> 
 <br /> 
 Ng, Y.-L. (2023a). An error management approach to perceived fakeness of deepfakes: The moderating role of perceived deepfake targeted politicians’ personality characteristics. <em>Current Psychology, 42</em>, 25658–25669. https://doi.org/10.1007/s12144-022-03621-x <br /> 
 <br /> 
