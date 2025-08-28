@@ -4,17 +4,16 @@ title: "Selected Publications"
 ---
 
 <br /> 
-+ **Ng, Y.-L.** (In press). An error management approach to the human alarm system for correct and incorrect news content involving direct life-threatening risks. _Journal of Risk Research_. Advance online publication. <https://doi.org/10.1080/13669877.2025.2512079> 
-<br />
-<br /> 
 + **Ng, Y.-L.** (In press). Uses and gratifications of biophilic simulation games. _Games and Culture_. Advance online publication. <https://doi.org/10.1177/15554120241249518> 
 <br />
 <br /> 
 + **Ng, Y.-L.**, & Lin, Z. (In press). Biophilia gratification: Evidence from nature-related posts and images on social media. _New Media & Society_. Advance online publication. <https://doi.org/10.1177/14614448241303776><br /> 
 <br /> 
-+ Lin, Z., & **Ng, Y.-L.** (In press). Unraveling gratifications, concerns, and acceptance of generative artificial intelligence. _International Journal of Human–Computer Interaction_. Advance online publication. <https://doi.org/10.1080/10447318.2024.2436749><br />
-<br /> 
 + **Ng, Y.-L.** (2025). A longitudinal model of continued acceptance of conversational artificial intelligence. _Information Technology & People, 38_, 1871-1889. <https://doi.org/10.1108/ITP-06-2023-0577><br />
+<br /> 
++ **Ng, Y.-L.** (2025). An error management approach to the human alarm system for correct and incorrect news content involving direct life-threatening risks. _Journal of Risk Research, 28_, 486-502. <https://doi.org/10.1080/13669877.2025.2512079><br />
+<br /> 
++ Lin, Z., & **Ng, Y.-L.** (2025). Unraveling gratifications, concerns, and acceptance of generative artificial intelligence. _International Journal of Human–Computer Interaction, 41_, 10725-10742. <https://doi.org/10.1080/10447318.2024.2436749><br />
 <br /> 
 + Luo.Y., & **Ng, Y.-L.** (2025). Exploring the mediating role of online social capital in the association between sharing memes using four humor styles and subjective well-being. _Social Media + Society, 11_, 1–14. <https://doi.org/10.1177/20563051251348922><br /> 
 <br />
