@@ -66,7 +66,7 @@ Ng, Y.-L. (In press). Uses and gratifications of biophilic simulation games. <em
 Ng, Y.-L., & Lin, Z. (In press). Biophilia gratification: Evidence from nature-related posts and images on social media. <em>New Media & Society</em>. Advance online publication. https://doi.org/10.1177/14614448241303776 <br /> </div>
 <br /> 
 <div style="margin-top: 2px; margin-bottom: 2px; margin-left: 80px; margin-right: 80px;">
-  Apart from the above research topics, I have also studied psychological and social antecedents and consequences of interacting with and through various media technologies, including surveillance technology (Ng & Lin, 2024), deepfakes (Ng, 2023a), virtual and augmented reality (Ng, Ma, et al., 2019), life-threatening news (Ng, In press; Ng & Zhao, 2020), online incivility (Ng et al., 2020), and digital divide (Ng, Chan, et al., 2019). <br /> </div>
+  Apart from the above research topics, I have also studied psychological and social antecedents and consequences of interacting with and through various media technologies, including surveillance technology (Ng & Lin, 2024), deepfakes (Ng, 2023a), virtual and augmented reality (Ng, Ma, et al., 2019), life-threatening news (Ng, 2025; Ng & Zhao, 2020), online incivility (Ng et al., 2020), and digital divide (Ng, Chan, et al., 2019). <br /> </div>
 <br /> 
 <div style="margin-top: 2px; margin-bottom: 2px; margin-left: 120px; margin-right: 120px;">
 Ng, Y.-L. (2025). An error management approach to the human alarm system for correct and incorrect news content involving direct life-threatening risks. <em>Journal of Risk Research, 28</em>, 486-502. https://doi.org/10.1080/13669877.2025.2512079 <br /> 
