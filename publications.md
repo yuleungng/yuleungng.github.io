@@ -21,7 +21,7 @@ title: "Selected Publications"
 <br /> 
 + **Ng, Y.-L.** (2024). Understanding passenger acceptance of autonomous vehicles through the prism of the trolley dilemma. _International Journal of Human-Computer Interaction, 40_, 2185–2194. <https://doi.org/10.1080/10447318.2022.2163347> <br /> 
 <br /> 
-+ **Ng, Y.-L.**& Lin, Z. (2024). Between technological utopia and dystopia: Online expression of compulsory use of surveillance technology. _Science and Engineering Ethics, 30_, 19. <https://doi.org/10.1007/s11948-024-00483-3> <br /> 
++ **Ng, Y.-L.,** & Lin, Z. (2024). Between technological utopia and dystopia: Online expression of compulsory use of surveillance technology. _Science and Engineering Ethics, 30_, 19. <https://doi.org/10.1007/s11948-024-00483-3> <br /> 
 <br /> 
 + **Ng, Y.-L.** (2023). An error management approach to perceived fakeness of deepfakes: The moderating role of perceived deepfake targeted politicians’ personality characteristics. _Current Psychology, 42_, 25658–25669. <https://doi.org/10.1007/s12144-022-03621-x> <br /> 
 <br /> 
